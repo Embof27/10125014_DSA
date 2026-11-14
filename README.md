@@ -1,5 +1,4 @@
 ```markdown
-# Bài tập CTDL&GT – 211131
 - Họ tên: Vũ Đức Anh
 - MSV: 10125014
 - Lớp: 10125N.1
