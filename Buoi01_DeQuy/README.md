@@ -11,6 +11,7 @@ dotnet run --project Buoi01_DeQuy/<Ten_Chuong>/<Ten_Bai>
 ```
 
 ## Kết quả chạy
+```
 === Bài 1: 1000 số ngẫu nhiên, tìm max min ===
 Số lớn nhất là:  1000
 Số nhỏ nhất là:  0
@@ -128,3 +129,4 @@ Mảng sắp xếp tăng dần:
 Nhập số nguyên dương n:  
 10
 Số Fibonacci thứ 10 là: 34
+```
