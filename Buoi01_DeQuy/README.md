@@ -3,10 +3,11 @@
 Họ tên: Vũ Đức Anh · MSV: 10125014
 
 ## Bài đã làm
+```
 Chương 1: Bài 1, 2, 3, 4, 5
 Chương 2: Bài 1, 2, 3, 4, 5, 6
 Chương 1: Bài 1, 2, 3, 4, 5, 6, 7
-
+```
 ## Cách chạy
 ```bash
 dotnet run --project Buoi01_DeQuy/<Ten_Chuong>/<Ten_Bai>
